@@ -1,2 +1,1 @@
-This is a test file on Git repo
-test again
+This is a test file on Git repo. 
